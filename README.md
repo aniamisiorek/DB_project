@@ -29,4 +29,14 @@ There will be a one-to-many relationship between events and performers. In other
 Our portable enumeration will exist in the Performer domain object. Each performer will have its own genre. For example, the "comedy" enumerations will represent a comedian or comic act. Music will be an artist or band.
 
 ## User Interface Requirements
-Our user interface will 
+Attendee List - displays a list of all users in the system
+Attendee Editor - displays a particular user for editing, allows creating a new user, and navigates to reservations for that user
+
+Reservation List - displays a list of all attendees for a certain event
+Reservation Editor - displays a particular reservation or allows for creating a new reservation with an existing user, and navigate to event corresponding to an event
+
+Event List - displays a list of all the events in the system
+Event Editor - displays a particular event for editing, allows creating a new event, and navigates to reservations for that event
+
+Performer List - displays a list of all performers for a certain event
+Performer Editor - displays a particular performer for editing, allows creating a new performer for an event, and navigates to events for that performer
