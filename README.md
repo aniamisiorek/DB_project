@@ -5,7 +5,7 @@ Team Members: Annetta Stogniew, Allison Li, Sydney Pruitt, Ania Misiorek
 For our project, we decided to create a database that manages data related to venue and event organization. Our database will allow users or attendees to schedule reservations for events. The database will also hold information related to these events, such as the performer, attendees, and time.
 
 ## UML Diagram
-db_design_final_project_UML.pdf
+https://github.com/aniamisiorek/DB_project/blob/a05fe64fccd5812ab25781f378829ebfd25a907a/db_design_final_project_UML.pdf
 
 ## User Data Model
 Attendees will be our user data model and they will be the users of our application. They will have a field for their first name, last name, username, password, email, and date of birth. Users will be able to make reservations for certain events.
